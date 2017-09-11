@@ -1,0 +1,51 @@
+html {
+  font-family: Helvetica;
+}
+
+a {
+  font-size: 18px;
+  color: white;
+}
+.header h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.header, .header a {
+  background-image: url("../Images/bg_top.png");
+  text-align: center;
+  color:white;
+}
+
+.supporting {
+  color: Gray;
+  text-align: center;
+}
+
+.supporting h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.supporting h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.supporting p {
+  font-size: 14px;
+}
+
+.label {
+  background-image: url("../Images/bg_top.png");
+  text-align: center;
+  color: white;
+  font-size: 23px;
+}
+
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+}
